@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/love-site/static/css/main.39f2ba3d.css",
+    "main.js": "/love-site/static/js/main.635f88fc.js",
+    "index.html": "/love-site/index.html",
+    "main.39f2ba3d.css.map": "/love-site/static/css/main.39f2ba3d.css.map",
+    "main.635f88fc.js.map": "/love-site/static/js/main.635f88fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f2ba3d.css",
+    "static/js/main.635f88fc.js"
+  ]
+}
